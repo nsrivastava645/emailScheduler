@@ -1,0 +1,17 @@
+[
+    {
+        "name": "abc", 
+        "phone": "+911111111111", 
+        "email": "abc@gmail.com"
+    },
+    {
+        "name": "def", 
+        "phone": "+912222222222", 
+        "email": "def@gmail.com"
+    },
+    {
+        "name": "ghi", 
+        "phone": "+913333333333", 
+        "email": "ghi@gmail.com"
+    }
+]

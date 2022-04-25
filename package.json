@@ -1,0 +1,27 @@
+{
+  "name": "stackassignmentneeraj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node -r dotenv/config  $(which jest) --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nsrivastava645/cron-notifier.git"
+  },
+  "author": "Neeraj Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsrivastava645/cron-notifier/issues"
+  },
+  "homepage": "https://github.com/nsrivastava645/cron-notifier#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "messagebird": "^3.7.2",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.7.3"
+  }
+}

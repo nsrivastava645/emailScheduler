@@ -1,0 +1,26 @@
+[
+  {
+    "html": "<h2>Hey there this is the first email.</h2>",
+    "subject": "First Email",
+    "status": 1,
+    "id": 1,
+    "successEmailIds": [
+      "abc@gmail.com",
+      "def@gmail.com",
+      "ghi@gmail.com"
+    ],
+    "failedEmailIds": []
+  },
+  {
+    "html": "<h2>Hey there this is the second email.</h2>",
+    "subject": "Second Email",
+    "status": 1,
+    "id": 2,
+    "successEmailIds": [
+      "abc@gmail.com",
+      "def@gmail.com",
+      "ghi@gmail.com"
+    ],
+    "failedEmailIds": []
+  }
+]

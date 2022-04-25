@@ -1,0 +1,10 @@
+[
+    {
+        "body": "This is a test message", 
+        "status": 0
+    }, 
+    {
+        "body": "This is a test message 2", 
+        "status": 0
+    }
+]
